@@ -9,7 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".TesMata"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".Lokasi"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".Info"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".Antrian"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".Pendaftaran"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".Puskesmas"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
