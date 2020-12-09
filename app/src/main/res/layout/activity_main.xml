@@ -31,10 +31,17 @@
                 android:orientation="vertical"
                 android:padding="2dp">
 
-                <ImageView
+                <com.denzcoskun.imageslider.ImageSlider
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:src="@drawable/layanan" />
+                    android:id="@+id/slider"
+                    app:auto_cycle="true"
+                    app:placeholder="@drawable/layanan"
+                    app:error_image="@drawable/layanan"
+                    app:delay="0"
+                    app:period="1000"
+                    app:corner_radius="5">
+                </com.denzcoskun.imageslider.ImageSlider>
 
                 <TextView
                     android:layout_width="170dp"

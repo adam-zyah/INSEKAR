@@ -8,6 +8,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.denzcoskun.imageslider.ImageSlider;
+import com.denzcoskun.imageslider.models.SlideModel;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity {
     ImageView puskesmas, pendaftaran, antrian, tesmata, info, maps;
 
@@ -15,6 +21,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        ImageSlider imageSlider = findViewById(R.id.slider);
+        List<SlideModel> slideModels = new ArrayList<>();
+        slideModels.add(new SlideModel("https://movimentomilenio.com/wp-content/uploads/2020/08/a37d3958bdd242f57a1b962469fcb635.jpg"));
+        slideModels.add(new SlideModel("https://yi-files.s3.eu-west-1.amazonaws.com/products/788000/788894/1343683-full.jpg"));
+        slideModels.add(new SlideModel("https://cdn.pixabay.com/photo/2020/08/03/09/39/medical-5459633_960_720.png"));
+        slideModels.add(new SlideModel("https://static.vecteezy.com/ti/gratis-vektor/t3/364496-gesundheitswesen-kostenlos-vektor.jpg"));
+        imageSlider.setImageList(slideModels,true);
 
         puskesmas();
         pendaftaran();
