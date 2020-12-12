@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">INSEKAR</string>
+    <string name="title_activity_lokasi">Map</string>
 </resources>
