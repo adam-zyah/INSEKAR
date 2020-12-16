@@ -8,7 +8,9 @@
          location permissions for the "MyLocation" functionality.
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
     <uses-permission android:name="android.permission.INTERNET" />
+    <permission android:name="your_pakage_name.permission.MAPS_RECEIVE" android:protectionLevel="signature" />
 
     <application
         android:allowBackup="true"
