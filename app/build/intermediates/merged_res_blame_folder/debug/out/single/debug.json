@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_splash.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_main_splash.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pendaftaran.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_pendaftaran.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_layanan.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\layanan.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_daftar.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\daftar.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lokasi.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_lokasi.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\info.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_antrian.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_antrian.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_antrian.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\antrian.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_puskesmas.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_puskesmas.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\font_alfa_slab_one.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gambar.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\gambar.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lokasi.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\lokasi.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tes_mata.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\layout\\activity_tes_mata.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splas.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\splas.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mata.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\drawable-v24\\mata.png"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\font_abril_fatface.xml.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\font\\abril_fatface.xml"
+    },
+    {
+        "merged": "D:\\final_projek\\INSEKAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\final_projek\\INSEKAR\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
